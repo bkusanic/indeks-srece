@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Indeks sreće",
+    "slug": "indeks-srece",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "indekssrece",
+    "android": {
+      "package": "com.example.indekssrece",
+      "adaptiveIcon": {
+        "backgroundColor": "#F2F4F3"
+      }
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.indekssrece"
+    },
+    "plugins": [],
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "experiments": {
+      "baseUrl": "/indeks-srece"
+    }
+  }
+}
