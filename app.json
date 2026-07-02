@@ -2,6 +2,8 @@
   "expo": {
     "name": "Indeks sreće",
     "slug": "indeks-srece",
+    "owner": "bkusanic",
+    "extra": { "eas": { "projectId": "632484bc-78f4-47db-80ff-27872743f49f" } },
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
