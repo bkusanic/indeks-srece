@@ -19,7 +19,7 @@
     "plugins": [],
     "web": {
       "bundler": "metro",
-      "output": "static"
+      "output": "single"
     },
     "experiments": {
       "baseUrl": "/indeks-srece"
